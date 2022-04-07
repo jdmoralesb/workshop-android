@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tienda de Videojuegos</string>
+    <string name="price">$ %s</string>
+    <string name="buy">Comprar</string>
+</resources>
